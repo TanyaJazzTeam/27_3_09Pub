@@ -1,7 +1,7 @@
 settings:
   frontmatter_not_escaped:
   - "true"
-     paths:
+ paths:
   - source: .
     include:
      - "07_1_09.md"
