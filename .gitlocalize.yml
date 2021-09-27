@@ -3,3 +3,7 @@ pretranslate:
     ignore_frontmatter_keys:
     - "my"
     - "Man"
+   paths:
+   - source: .
+     include:
+     - "07_1_09.md"
