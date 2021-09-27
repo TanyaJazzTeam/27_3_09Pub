@@ -10,3 +10,7 @@ pretranslate:
     - "man2"
     - "man3"
     - "girls"
+  paths:
+  - source: .
+    include:
+     - "07_1_09.md"
