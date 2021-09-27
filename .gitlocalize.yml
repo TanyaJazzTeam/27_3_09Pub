@@ -1,16 +1,3 @@
-pretranslate:
-  segments:
-    ignore_frontmatter_keys:
-    - "my"
-    - "girls1"
-    - "girls2"
-    - "girls3"  
-    - "Man"
-    - "man1"
-    - "man2"
-    - "man3"
-    - "girls"
-  paths:
-  - source: .
-    include:
-     - "07_1_09.md"
+settings:
+  frontmatter_not_ascaped:
+  - "true"
