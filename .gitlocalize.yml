@@ -1,5 +1,5 @@
 pretranslate:
   segments:
-    ignore_mrontmatter_keys:
+    ignore_frontmatter_keys:
     - "my"
     - "Man"
