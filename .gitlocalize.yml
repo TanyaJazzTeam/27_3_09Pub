@@ -1,7 +1,4 @@
 settings:
-  frontmatter_not_escaped:
-  - "true"
- paths:
-  - source: .
-    include:
-     - "07_1_09.md"
+   popup_for_contributors:
+    enabled: true
+    message_text: qqqq
