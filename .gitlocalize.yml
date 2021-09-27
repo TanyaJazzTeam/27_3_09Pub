@@ -4,6 +4,6 @@ pretranslate:
     - "my"
     - "Man"
    paths:
-   - source: .
-     include:
+  - source: .
+    include:
      - "07_1_09.md"
