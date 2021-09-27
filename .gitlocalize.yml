@@ -2,8 +2,11 @@ pretranslate:
   segments:
     ignore_frontmatter_keys:
     - "my"
+    - "girls1"
+    - "girls2"
+    - "girls3"  
     - "Man"
-   paths:
-  - source: .
-    include:
-     - "07_1_09.md"
+    - "man1"
+    - "man2"
+    - "man3"
+    - "girls"
